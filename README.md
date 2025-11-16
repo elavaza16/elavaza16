@@ -1,11 +1,7 @@
-<!-- 💜✨ Elavaza Sandra | Code. Create. Crack a Joke. ✨💜 -->
-
-<!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=34&duration=2800&pause=800&color=BF7FFF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Elavaza+Sandra+💜;Computer+Science+Student+at+Strathmore+University🎓;Creative+Designer+%26+Web+Dev+Explorer🚀;Currently+Learning+Laravel+⚡;Design.+Code.+Laugh.+Repeat.😂" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=2800&pause=800&color=9D4EDD&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Elavaza+Sandra;Computer+Science+Student+at+Strathmore+University;Creative+Designer+%26+Web+Dev+Explorer;Currently+Learning+Laravel;Design.+Code.+Laugh.+Repeat." alt="Typing SVG" />
 </p>
 
-<!-- Purple Gradient Wave -->
 <p align="center">
   <svg width="100%" height="120" viewBox="0 0 1440 120" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
     <defs>
@@ -21,45 +17,45 @@
 
 ---
 
-### 🌸 About Me
+### About Me
 
-Heya! I’m **Elavaza Sandra** 💜 — a *Computer Science student* at **Strathmore University** who’s in love with all things **creative, colorful, and coded**.  
+Heya! I’m **Elavaza Sandra** — a *Computer Science student* at **Strathmore University** who’s in love with all things **creative and coded**.
 
 I’m that person who:
-- 🪄 Makes PowerPoints that could totally win design awards  
-- 🎨 Doodles app ideas on Figma just for fun  
-- 💻 Geeks out about how pretty *and* powerful a website can be  
-- 😂 Tells a joke or three while debugging (humor saves lives, trust me)  
+- Makes PowerPoints with a focus on good design.
+- Doodles app ideas on Figma just for fun.
+- Geeks out about how a website can be both beautiful *and* powerful.
+- Tells a joke or three while debugging (humor saves lives, trust me).
 
-> “Code is my logic, design is my love language.” 💫  
+> “Code is my logic, design is my love language.”
 
 ---
 
-### 🚀 What I’ve Learnt So Far
+### What I’ve Learnt So Far
 
-| 💡 Skill | 💜 What I Can Do |
+| Skill | What I Can Do |
 |-----------|----------------|
 | **HTML** | Build strong, semantic web structures |
-| **CSS** | Add colors, vibes, and that smooth flow ✨ |
-| **JavaScript** | Make things move and groove 💃 |
+| **CSS** | Add professional styling and smooth flow |
+| **JavaScript** | Implement interactivity and dynamic features |
 | **PHP** | Give logic to beautiful layouts |
-| **Java** | Keep it object-oriented and neat ☕ |
-| **Python** | Automate, analyze, and have fun with code 🐍 |
-| **GitHub** | Version control, baby! 💅 |
-| **MySQL Workbench** | Store it, query it, love it 💾 |
+| **Java** | Keep it object-oriented and neat |
+| **Python** | Automate, analyze, and process data |
+| **GitHub** | Use version control effectively |
+| **MySQL Workbench** | Store it, query it, manage data |
 
 ---
 
-### 🌈 Currently Exploring
+### Currently Exploring
 
-- 💻 **Laravel** — learning how to make backends as beautiful as my UIs  
-- 🎨 **Figma** — designing web apps that actually make sense  
-- ⚡ **New creative ways** to express ideas through code  
-- 😂 **Jokes** — because debugging without laughter? impossible.  
+- 💻 **Laravel** — learning how to build robust backends.
+- 🎨 **Figma** — designing web apps that are intuitive and user-focused.
+- ⚡ **New creative ways** to express ideas through code.
+- **Jokes** — because debugging without laughter is impossible.
 
 ---
 
-### 💜 Tech I Love Using
+### Tech I Use
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,laravel,mysql,git,figma,vscode&theme=light" />
@@ -67,12 +63,12 @@ I’m that person who:
 </p>
 
 <p align="center">
-  🎨 I mix <b>creativity</b> + <b>logic</b> — the best of both worlds 🌍
+  I mix <b>creativity</b> and <b>logic</b> — the best of both worlds.
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandraelavaza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sandra's GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandraelavaza&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
@@ -80,14 +76,14 @@ I’m that person who:
 
 ---
 
-### ☕ Let’s Connect!
+### Let’s Connect!
 <p align="center">
   <a href="https://github.com/sandraelavaza"><img src="https://img.shields.io/badge/GitHub-Elavaza_Sandra-9D4EDD?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sandra-elavaza/"><img src="https://img.shields.io/badge/LinkedIn-Elavaza_Sandra-BF7FFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  ✨ *Let's create, code, and maybe share a joke while we’re at it!* 💫
+  *Let's create, code, and maybe share a joke while we’re at it!*
 </p>
 
 ---
@@ -97,5 +93,5 @@ I’m that person who:
 </p>
 
 <p align="center">
-  💜 *Made with love, code, and way too much coffee.* ☕ — <b>Elavaza Sandra</b> 🌸
+  *Made with love, code, and way too much coffee.* — <b>Elavaza Sandra</b>
 </p>
